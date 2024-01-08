@@ -64,7 +64,7 @@ main{
     border-radius: 15px;
     height: 30px;
 
-    
+
 }
 
 nav ul{
@@ -105,9 +105,18 @@ p{
     margin-bottom: 70px;
 }
 
-/* .space{
+.space{
     border:  2px solid black;
     height: 1px;
     width: 170px;
-    margin-bottom: 25px;
-} */
+    margin-top: 148px;
+    margin-right: 60px;
+}
+
+.visit{
+    display: flex;
+}
+
+.spain{
+    font-weight:1000;
+}
